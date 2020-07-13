@@ -1,4 +1,6 @@
-website
+This project was built with NPR's interactive template. 
+
+Original note from NPR:
 ======================================================
 
 This news app is built on our `interactive template <https://github.com/nprapps/interactive-template>`_. Check the readme for that template for more details about the structure and mechanics of the app, as well as how to start your own project.
@@ -33,7 +35,7 @@ Common tasks that you may want to run include:
 * ``cron`` - runs builds and deploys on a timer (see ``tasks/cron.js`` for details)
 * ``publish`` - uploads files to the staging S3 bucket
 
-  * ``publish:live`` uploads to production
+  * ``publish:live`` uploads to production  
   * ``publish:simulated`` does a dry run of uploaded files and their compressed sizes
 
 Troubleshooting
