@@ -1,0 +1,33 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "stage-apps.npr.org",
+      "path": "website"
+    },
+    "live": {
+      "bucket": "apps.npr.org",
+      "path": "website"
+    }
+  },
+  "styles": {
+    "src/css/seed.less": "build/style.css"
+  },
+  "scripts": {
+    "src/js/main.js": "build/app.js"
+  },
+  "title": "疫情影响下的行业",
+  "description": "",
+  "url": "",
+  "image": "",
+  "analytics": {
+    "topicIDs": [],
+    "primaryTopic": "",
+    "secondaryTopics": []
+  },
+  "sheets": [],
+  "docs": {
+    "story":"1yYh0sqZtOQtde-vtmoXUjzIGbekfKLEYoqlXlRq3wUA"
+  },
+  "embedded": true,
+  "production": false
+}

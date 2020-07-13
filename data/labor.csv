@@ -1,0 +1,21 @@
+rowid,area,period,lost,percentage
+1,World,Q1,165,4.8
+2,World,Q2,365,10.7
+3,World: Low income,Q1,4,1.7
+4,World: Low income,Q2,23,8.8
+5,World: Lower‐middle income,Q1,24,1.9
+6,World: Lower‐middle income,Q2,140,11.4
+7,World: Upper‐middle income,Q1,125,8.8
+8,World: Upper‐middle income,Q2,140,9.9
+9,World: High income,Q1,13,2.3
+10,World: High income,Q2,65,12.2
+11,Africa,Q1,8,1.7
+12,Africa,Q2,42,9.5
+13,Americas,Q1,7,1.7
+14,Americas,Q2,60,13.1
+15,Arab States,Q1,2,2.1
+16,Arab States,Q2,8,10.3
+17,Asia and the Pacific,Q1,135,6.5
+18,Asia and the Pacific,Q2,210,10
+19,Europe and Central Asia,Q1,12,3
+20,Europe and Central Asia,Q2,50,12.9
