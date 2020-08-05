@@ -352,7 +352,7 @@ function bubbleChart() {
         .attr("dy", ".35em")
         .attr("dx", "1em")
         .attr("opacity", 0)
-        .text("Loss in 2020 Q2 (compared to 2020 Q1): 365 million")
+        .text("Loss in 2020 Q2 (compared to 2020 Q1): 200 million")
         .classed("graphic-label", true);
 
       legendQ2Label

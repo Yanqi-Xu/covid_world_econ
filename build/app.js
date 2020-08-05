@@ -34579,7 +34579,7 @@ function bubbleChart() {
       legendQ1.append("text").attr("x", 0).attr("y", 0).attr("dy", ".35em").attr("dx", "1em").text("Loss in 2020 Q1 (compared to 2019 Q4): 165 million").classed("graphic-label", true);
       var legendQ2 = legend.append("g").classed("q2", true);
       var legendQ2Dot = legendQ2.append("circle").attr("cx", 0).attr("cy", 20).attr("r", 4).attr("opacity", 0).attr("fill", fillColor("Q2")).attr("stroke", "none");
-      var legendQ2Label = legendQ2.append("text").attr("x", 0).attr("y", 20).attr("dy", ".35em").attr("dx", "1em").attr("opacity", 0).text("Loss in 2020 Q2 (compared to 2020 Q1): 365 million").classed("graphic-label", true);
+      var legendQ2Label = legendQ2.append("text").attr("x", 0).attr("y", 20).attr("dy", ".35em").attr("dx", "1em").attr("opacity", 0).text("Loss in 2020 Q2 (compared to 2020 Q1): 200 million").classed("graphic-label", true);
       legendQ2Label.transition().delay(3800).duration(1000).attr("opacity", "1");
       legendQ2Dot.transition().delay(3800).duration(1000).attr("opacity", "1");
     }, 500);
